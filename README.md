@@ -46,4 +46,5 @@ Display Customer: View details of customer accounts and associated services.
 Transaction Bill: Generate bills based on the services used by customers.
 
 # UML CLASS DIAGRAM
-<img width="403" alt="UML Class Diagram" src="https://github.com/Akshay-HS/OOAD/assets/68019762/d50c7108-c00e-4db3-84ce-bde1745034e8">
+![image](https://github.com/Akshay-HS/OOAD/assets/68019762/5307bc23-5ce0-4e22-a755-ea43cf006d33)
+
